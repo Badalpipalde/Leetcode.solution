@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
