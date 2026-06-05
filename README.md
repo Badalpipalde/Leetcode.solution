@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
