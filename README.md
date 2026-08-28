@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
