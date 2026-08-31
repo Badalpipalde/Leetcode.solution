@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0977-squares-of-a-sorted-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Badalpipalde/Leetcode.solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Badalpipalde/Leetcode.solution/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
