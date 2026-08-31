@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0904-fruit-into-baskets) |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -43,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
