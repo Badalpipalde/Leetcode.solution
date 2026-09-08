@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Badalpipalde/Leetcode.solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
